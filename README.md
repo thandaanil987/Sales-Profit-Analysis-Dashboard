@@ -1,14 +1,11 @@
 # 📊 Sales Performance & Profit Optimization Dashboard
 
----
 
 ## 📌 Overview
 
 This project focuses on analyzing retail sales data to evaluate business performance and identify key factors affecting profitability.  
 
 The goal is to uncover trends, detect loss-making areas, and provide actionable insights to support data-driven decision-making.
-
----
 
 ## 🎯 Objectives
 
@@ -17,8 +14,6 @@ The goal is to uncover trends, detect loss-making areas, and provide actionable 
 - Evaluate the relationship between discount and profit  
 - Build an interactive dashboard for business insights  
 
----
-
 ## 🛠️ Tools & Technologies
 
 - **Python (Pandas, Matplotlib, Seaborn)** – Data cleaning & analysis  
@@ -26,13 +21,9 @@ The goal is to uncover trends, detect loss-making areas, and provide actionable 
 - **Excel** – Initial data exploration  
 - **Power BI** – Dashboard development and visualization  
 
----
-
 ## 📁 Dataset
 
 - Superstore Dataset (Kaggle)
-
----
 
 ## 🔄 Project Workflow
 
@@ -64,8 +55,6 @@ Developed an interactive dashboard including:
 - Region filter  
 - Dynamic data exploration  
 
----
-
 ## 📊 Key Insights
 
 - Total sales reached approximately **2.3M**, generating a profit of around **286K**  
@@ -73,9 +62,8 @@ Developed an interactive dashboard including:
 - Higher discounts significantly reduce profit margins  
 - Technology category contributes the highest share of total profit  
 - West region shows the strongest performance  
-- Some segments generate high sales but relatively lower profit  
-
----
+- Some segments generate high sales but relatively lower profit
+  
 
 ## 💡 Business Perspective
 
@@ -84,9 +72,8 @@ This analysis helps businesses to:
 - Optimize discount strategies to improve profit margins  
 - Focus on high-performing product categories  
 - Identify underperforming regions  
-- Improve overall business performance using data-driven insights  
-
----
+- Improve overall business performance using data-driven insights
+  
 
 ## 📷 Dashboard Preview
 
@@ -94,7 +81,6 @@ This analysis helps businesses to:
   <img src="Sales & Profit -1.png" width="900">
 </p>
 
----
 
 ## 🧠 Skills Demonstrated
 
@@ -105,14 +91,11 @@ This analysis helps businesses to:
 - Dashboard Development  
 - Business Insight Generation  
 
----
 
 ## 🚀 Conclusion
 
 This project demonstrates how combining data analysis with visualization tools can generate meaningful insights to improve profitability and support strategic business decisions.
 
----
 
 ## 👤 Author
-
 **T Anil Kumar**
